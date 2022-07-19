@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=armagangok&show_icons=true" /></p>
+<p align="centerleft"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=armagangok&show_icons=true" /></p>
 
 
 **Visitors Count**  
