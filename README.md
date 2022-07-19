@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=armagangok&show_icons=true" /></p>
+
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{armagangok}/count.svg)
+
+
