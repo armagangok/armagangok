@@ -6,6 +6,7 @@
 -  Trying to find my first job.
 -  Sharing my voyage on [twitter](https://twitter.com/thearmagangok).
 -  Programming memes account [instagram](https://instagram.com/daily.programming.memes).
+-  Connect with me on [Linkedin](https://www.linkedin.com/in/armagangok/).
 
 
 
