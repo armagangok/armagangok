@@ -3,7 +3,7 @@
 
 
 ##### RECENTLY
--  Trying to find my first job.
+-  Working for a company as a Flutter Developer.
 -  Programming memes account [instagram](https://instagram.com/daily.programming.memes).
 -  Connect with me on [Linkedin](https://www.linkedin.com/in/armagangok/).
 
