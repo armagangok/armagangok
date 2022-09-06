@@ -8,6 +8,11 @@
 -  Connect with me on [Linkedin](https://www.linkedin.com/in/armagangok/).
 
 
+<h2> Personal statistics: </h2>
+
+![Metrics](https://github.com/armagangok/armagangok/blob/master/github-metrics.svg)
+
+
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{armagangok}/count.svg)
