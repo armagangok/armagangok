@@ -10,7 +10,7 @@
 
 <h2> Personal statistics: </h2>
 
-![Metrics](https://github.com/armagangok/armagangok/blob/master/github-metrics.svg)
+![Metrics](https://github.com/armagangok/blob/master/github-metrics.svg)
 
 
 
