@@ -3,7 +3,7 @@
 
 
 ##### RECENTLY
--  Working for a company as a Flutter Developer, using BLoC, cubit pattern.
+-  Working for a company as a Freelancer, using BLoC, cubit pattern.
 -  Programming memes account [instagram](https://instagram.com/daily.programming.memes).
 -  Connect with me on [Linkedin](https://www.linkedin.com/in/armagangok/).
 
