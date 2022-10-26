@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Flutter developer.
+#### I'm a mobile application developer who uses the Flutter framework.
 
 
 ##### RECENTLY
